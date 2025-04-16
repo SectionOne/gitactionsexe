@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+af297ee - GitHub Actions, 9 minutes ago : Auto: Add latest commits log
+76a3ba0 - exemple, 10 minutes ago : Merge branch 'main' of https://github.com/SectionOne/gitactionsexe
+1b87826 - exemple, 11 minutes ago : Test: Activant gitaction amb cron
