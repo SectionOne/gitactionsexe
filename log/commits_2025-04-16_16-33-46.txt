@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+4bf6815 - exemple, 47 seconds ago : Merge branch 'main' of https://github.com/SectionOne/gitactionsexe
+075487b - exemple, 2 minutes ago : Test: Activant gitaction amb push
+b89155b - GitHub Actions, 8 minutes ago : Auto: Add latest commits log
